@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Computer Details</title>
+    <link rel="stylesheet" href="../../css/index.css">
+    <link rel="stylesheet" href="../../css/loader.css">
+    <link rel="stylesheet" href="../../../node_modules/toastr/build/toastr.css" />
+    <script></script>
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="header">
+        <h1>End User Service Centre Consultancy & Design</h1>
+      </div>
+
+      <div class="container-ui">
+        <div class="buttons" id="buttons">
+          <button id="osBtn">OS</button>
+          <button id="hardwareBtn">Hardware</button>
+          <button id="userBtn">User</button>
+          <button id="driveSpaceBtn">Drive Space</button>
+          <button id="ipBtn">IP</button>
+          <button id="nicBtn">NIC</button>
+          <button id="allBtn">All Info</button>
+        </div>
+
+        <div class="info-container">
+          <div class="computer" id="computer">
+            
+          </div>
+          <div class="function-buttons">
+            <button id="recycleBinBtn">Empty Recycle Bin</button>
+            <button id="deepCleanBtn">Deep Clean</button>
+          </div>
+        </div>
+
+        <div class="notice" id="notice">
+          <h5 id="noticeText"></h5>
+        </div>
+    
+        <div class="table" id="mainTable">
+          <div class="table-title">
+            <h1 id="table-title">Loading...</h1>
+            <div class="loader" id="loader">
+              <div class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            </div>
+          </div>
+         
+          <table class="data">
+            <thead id="data-header" class="data-header">
+    
+            </thead>
+            <tbody id="data-body" class="data-body">
+            </tbody>
+          </table>
+        </div>
+        <div id="allTables" class="all-tables">
+        </div>
+      </div>
+    </div>
+    
+    
+
+    <footer class="footer">
+      <div class="logo" id="footerLogo">
+        <img src="../../images/Company-logo.svg" />
+      </div>
+      <div class="version">
+
+      </div>
+    </footer>
+
+    <template id="template-key-value-row">
+      <tr>
+        <td class="key">
+          Unknown
+        </td>
+        <td class="value">
+          Unknown
+        </td>
+      </tr>
+    </template>
+
+    <template id="template-new-table">
+      <div class="table">
+        <div class="table-title">
+          <h1>Loading...</h1>
+        </div>
+       
+        <table class="data">
+          <thead  class="data-header">
+  
+          </thead>
+          <tbody  class="data-body">
+          </tbody>
+        </table>
+      </div>
+    </template>
+
+  </body>
+</html>

@@ -1,0 +1,123 @@
+This file details a report for the machine CORSAIRONE from the Computer Details program. All details from the program are output in this report.
+
+This report was generated on 10/25/2021 02:34:22.
+=================================================================================
+Operating System
+=================================================================================
+
+
+Operating System : Microsoft Windows 10 Pro
+OS Version       : 2009
+OS Build         : 19042.1288
+Service Pack     : 0.0
+Computer Name    : CORSAIRONE
+Architecture     : 64-bit
+Build Release    : 
+Build Version    : 
+
+
+
+=================================================================================
+Hardware Information
+=================================================================================
+
+
+Manufacturer : CORSAIR
+Model        : CORSAIR ONE i164
+Serial       : 0004202102960
+BIOS Verson  : 2.QJ
+Video Driver : {Microsoft Remote Display Adapter, NVIDIA GeForce RTX 2080 Ti}
+Physical RAM : 31.93GB
+
+
+
+=================================================================================
+User
+=================================================================================
+
+
+User OU      : 
+Computer OU  : 
+Site Name    : 
+Username     : 
+Logon Domain : DominicOne
+Logon Server : CORSAIRONE
+
+
+
+=================================================================================
+Disk Space
+=================================================================================
+
+
+C: Size               : 952.78GB
+C: Size Remaining     : 484.23GB
+H: Drive              : Not Found
+Offline Files Enabled : False
+Offline Files Active  : False
+
+
+
+=================================================================================
+IP Information
+=================================================================================
+
+
+Name            : {WiFi, vEthernet (Internet)}
+IPv4            : 192.168.0.54
+IPv6            : fe80::c8f6:a247:6a82:a790
+Subnet Mask     : 255.255.255.0
+Default Gateway : {192.168.0.1}
+DNS Domain      : 
+
+Name            : vEthernet (Default Switch)
+IPv4            : 222.21.116.1
+IPv6            : fe80::257b:1a92:6076:de17
+Subnet Mask     : 255.255.240.0
+Default Gateway : 
+DNS Domain      : 
+
+Name            : vEthernet (Internal )
+IPv4            : 10.10.10.11
+IPv6            : fe80::8e7:882d:4dce:8ca7
+Subnet Mask     : 255.255.255.0
+Default Gateway : 
+DNS Domain      : 
+
+Name            : vEthernet (WSL)
+IPv4            : 111.12.162.1
+IPv6            : fe80::74e0:57c7:6509:7cae
+Subnet Mask     : 255.255.240.0
+Default Gateway : 
+DNS Domain      : 
+
+Name            : Ethernet
+IPv4            : 192.168.1.10
+IPv6            : fe80::f805:a361:95ba:8048
+Subnet Mask     : 255.255.255.0
+Default Gateway : 
+DNS Domain      : 
+
+Name            : Hamachi
+IPv4            : 25.60.92.254
+IPv6            : fe80::59cc:1761:3019:bd3d
+Subnet Mask     : 255.0.0.0
+Default Gateway : {2620:9b::1900:1}
+DNS Domain      : 
+
+
+
+=================================================================================
+NIC
+=================================================================================
+
+Name                         Card                                     MAC Address      
+----                         ----                                     -----------      
+Bluetooth Network Connection Bluetooth Device (Personal Area Network) 74:D8:3E:44:9B:BA
+WiFi                         Intel(R) Dual Band Wireless-AC 8265      74:D8:3E:44:9B:B6
+vEthernet (Default Switch)   Hyper-V Virtual Ethernet Adapter         00:15:5D:78:56:CD
+vEthernet (Internet)         Hyper-V Virtual Ethernet Adapter         74:D8:3E:44:9B:B6
+vEthernet (Internal )        Hyper-V Virtual Ethernet Adapter         00:15:5D:01:0A:02
+vEthernet (WSL)              Hyper-V Virtual Ethernet Adapter         00:15:5D:01:0E:27
+Ethernet                     Intel(R) Ethernet Connection (2) I219-V  2C:F0:5D:2B:08:1A
+Hamachi                      LogMeIn Hamachi Virtual Ethernet Adapter 7A:79:19:3C:5C:FE
