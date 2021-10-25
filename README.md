@@ -15,7 +15,7 @@ A button to empty the recylcing bin and clean up various junk files to free up d
 # Screenshots
 More screenshots can be found [here](docs\img).
 ## Operating System
-![Operating System UI](docs\img\Operating-System.png)
+![Operating System UI](docs/img/Operating-System.png)
 
 ## NIC
-![NIC Information UI](docs\img\NIC-Information.png)
+![NIC Information UI](docs/img/NIC-Information.png)
